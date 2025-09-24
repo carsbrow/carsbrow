@@ -17,8 +17,8 @@ Welcome to my corner of GitHub! I'm a passionate CS student at the **University 
 ```javascript
 const carson = {
     currentFocus: "Computer Science & Software Development",
-    learning: ["Advanced Algorithms", "System Design", "Full-Stack Development"],
-    interests: ["Web Development", "Problem Solving", "Open Source"],
+    learning: ["SecDevOps", "System Design", "Full-Stack Development"],
+    interests: ["Web Development", "Problem Solving", "Security"],
     askMeAbout: ["JavaScript", "Python", "Web Technologies", "CS Fundamentals"]
 };
 ```
@@ -51,12 +51,6 @@ I'm always excited to connect with fellow developers, students, and tech enthusi
 </div>
 
 ---
-
-<div align="center">
-  <i>"The best way to predict the future is to create it."</i>
-  <br><br>
-  ⭐ Star some repositories if you find them interesting!
-</div>
 
 <!--
 **carsbrow/carsbrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
