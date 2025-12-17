@@ -8,7 +8,6 @@ Welcome to my corner of GitHub! I'm a passionate CS student at the **University 
 
 - 🎓 **Studying:** Computer Science at University of Minnesota Twin Cities
 - 💡 **Passionate About:** Building innovative solutions and learning new technologies
-- 🌐 **Personal Project:** [CodeSpace](https://codespace.to) - Check out what I've been working on!
 - 📍 **Location:** Twin Cities, Minnesota
 - 🎯 **Always:** Looking for new challenges and opportunities to grow
 
@@ -28,9 +27,6 @@ const carson = {
 ### 🌟 [Personal Projects Collection](https://github.com/carsbrow/Projects)
 Some of my older personal projects
 
-### 🌐 [CodeSpace](https://codespace.to)
-Recent Project, a leetcode note taking application used for technical interview prep
-
 ## 🌱 Current Goals
 
 - 🎯 Expanding my knowledge in advanced computer science concepts
@@ -45,7 +41,6 @@ I'm always excited to connect with fellow developers, students, and tech enthusi
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carson-brow/)
-  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codespace.to)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carsbrow)
 
 </div>
