@@ -8,7 +8,6 @@ Welcome to my corner of GitHub! I'm a passionate CS student at the **University 
 
 - 🎓 **Studying:** Computer Science at University of Minnesota Twin Cities
 - 💡 **Passionate About:** Building innovative solutions and learning new technologies
-- 📍 **Location:** Twin Cities, Minnesota
 - 🎯 **Always:** Looking for new challenges and opportunities to grow
 
 ## 🛠️ Tech Stack & Skills
@@ -36,7 +35,7 @@ Some of my older personal projects
 
 ## 💬 Let's Connect!
 
-I'm always excited to connect with fellow developers, students, and tech enthusiasts! Whether you want to collaborate on a project, discuss the latest in tech, or just say hi - don't hesitate to reach out.
+I'm always excited to connect with fellow developers, students, and tech enthusiasts!
 
 <div align="center">
   
